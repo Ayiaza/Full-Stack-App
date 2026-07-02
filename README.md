@@ -9,13 +9,13 @@ This project demonstrates modern backend development practices using JWT authent
 
 **Language** | Python 3     
 **Framework** | FastAPI    
-**Database** | SQLite 
-**ORM** | SQLAlchemy 
-**Authentication** | JWT (JSON Web Tokens), OAuth2 
-**Password Security** | Passlib (bcrypt) 
-**Validation** | Pydantic 
-**Server** | Uvicorn 
-**Environment Management** | Python Dotenv 
+**Database** | SQLite    
+**ORM** | SQLAlchemy    
+**Authentication** | JWT (JSON Web Tokens), OAuth2    
+**Password Security** | Passlib (bcrypt)    
+**Validation** | Pydantic    
+**Server** | Uvicorn    
+**Environment Management** | Python Dotenv    
 **Containerization** | Docker 
 
 ---
