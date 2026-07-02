@@ -7,44 +7,42 @@ This project demonstrates modern backend development practices using JWT authent
 
 ## 🛠️ Technologies Used
 
-| Category | Technologies |
-|----------|--------------|
-| **Language** | Python 3 |
-| **Framework** | FastAPI |
-| **Database** | SQLite |
-| **ORM** | SQLAlchemy |
-| **Authentication** | JWT (JSON Web Tokens), OAuth2 |
-| **Password Security** | Passlib (bcrypt) |
-| **Validation** | Pydantic |
-| **Server** | Uvicorn |
-| **Environment Management** | Python Dotenv |
-| **Containerization** | Docker |
+**Language** | Python 3 
+**Framework** | FastAPI 
+**Database** | SQLite 
+**ORM** | SQLAlchemy 
+**Authentication** | JWT (JSON Web Tokens), OAuth2 
+**Password Security** | Passlib (bcrypt) 
+**Validation** | Pydantic 
+**Server** | Uvicorn 
+**Environment Management** | Python Dotenv 
+**Containerization** | Docker 
 
 ---
 
 ## ✨ Features
 
-- 🔐 User Registration & Login
-- 🔑 JWT-based Authentication
-- 🔒 Secure Password Hashing (bcrypt)
-- 👤 Protected User Endpoints
-- ➕ Create Todo Tasks
-- 📋 View Personal Todo List
-- ✏️ Update Todo Details
-- ✅ Mark Tasks as Completed
-- ❌ Delete Todo Tasks
-- 📦 SQLAlchemy Database Integration
-- ✔️ Request & Response Validation
-- 🌐 CORS Support for Frontend Integration
-- ❤️ Health Check Endpoint
-- ⚙️ Environment Variable Configuration
-- 🐳 Docker Support
+ 🔐 User Registration & Login
+ 🔑 JWT-based Authentication
+ 🔒 Secure Password Hashing (bcrypt)
+ 👤 Protected User Endpoints
+ ➕ Create Todo Tasks
+ 📋 View Personal Todo List
+ ✏️ Update Todo Details
+ ✅ Mark Tasks as Completed
+ ❌ Delete Todo Tasks
+ 📦 SQLAlchemy Database Integration
+ ✔️ Request & Response Validation
+ 🌐 CORS Support for Frontend Integration
+ ❤️ Health Check Endpoint
+ ⚙️ Environment Variable Configuration
+ 🐳 Docker Support
 
 ---
 
 ## ⚙️ Project Workflow
 
-```text
+```
 User Registration
         │
         ▼
