@@ -1,6 +1,3 @@
-Here's a more **professional and GitHub-friendly** version with badges, headings, emojis, and clean formatting.
-
-````md
 # 🚀 Todo Management API
 
 A secure and scalable **Todo Management REST API** built with **FastAPI** that allows users to register, authenticate, and manage their personal tasks.  
