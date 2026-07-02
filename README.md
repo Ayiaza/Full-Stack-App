@@ -81,7 +81,6 @@ Database Storage
 ---
 
 ## 📚 What I Learned
-
 Throughout this project, I gained practical experience in:
 
 - Building RESTful APIs with FastAPI
@@ -97,23 +96,8 @@ Throughout this project, I gained practical experience in:
 
 ---
 
-## 🎯 Conclusion
-
+## 🎯 Conclusion 
 This project strengthened my understanding of backend development by combining authentication, database management, and REST API design into a single application.  
 It provided hands-on experience in developing secure, scalable, and production-ready backend services using modern Python technologies.
-
 ---
 
-## 🚀 Future Improvements
-
-- Email Verification
-- Password Reset Functionality
-- Role-Based Authorization
-- Pagination & Filtering
-- API Documentation Enhancements
-- Unit & Integration Testing
-- PostgreSQL Support
-- CI/CD Pipeline Integration
-````
-
-This version is much more suitable for GitHub and looks like documentation found in professional repositories.
