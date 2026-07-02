@@ -22,20 +22,20 @@ This project demonstrates modern backend development practices using JWT authent
 
 ## ✨ Features
 
- 🔐 User Registration & Login
- 🔑 JWT-based Authentication
- 🔒 Secure Password Hashing (bcrypt)
- 👤 Protected User Endpoints
- ➕ Create Todo Tasks
- 📋 View Personal Todo List
- ✏️ Update Todo Details
- ✅ Mark Tasks as Completed
- ❌ Delete Todo Tasks
- 📦 SQLAlchemy Database Integration
- ✔️ Request & Response Validation
- 🌐 CORS Support for Frontend Integration
- ❤️ Health Check Endpoint
- ⚙️ Environment Variable Configuration
+ 🔐 User Registration & Login    
+ 🔑 JWT-based Authentication    
+ 🔒 Secure Password Hashing (bcrypt)    
+ 👤 Protected User Endpoints    
+ ➕ Create Todo Tasks    
+ 📋 View Personal Todo List    
+ ✏️ Update Todo Details    
+ ✅ Mark Tasks as Completed    
+ ❌ Delete Todo Tasks    
+ 📦 SQLAlchemy Database Integration    
+ ✔️ Request & Response Validation    
+ 🌐 CORS Support for Frontend Integration    
+ ❤️ Health Check Endpoint    
+ ⚙️ Environment Variable Configuration    
  🐳 Docker Support
 
 ---
@@ -99,5 +99,6 @@ Throughout this project, I gained practical experience in:
 ## 🎯 Conclusion 
 This project strengthened my understanding of backend development by combining authentication, database management, and REST API design into a single application.  
 It provided hands-on experience in developing secure, scalable, and production-ready backend services using modern Python technologies.
+
 ---
 
