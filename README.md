@@ -7,7 +7,7 @@ This project demonstrates modern backend development practices using JWT authent
 
 ## 🛠️ Technologies Used
 
-**Language** | Python 3     
+**Language** | Python      
 **Framework** | FastAPI    
 **Database** | SQLite    
 **ORM** | SQLAlchemy    
